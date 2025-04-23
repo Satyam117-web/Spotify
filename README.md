@@ -1,2 +1,2 @@
 # Spotify
- A clone of spotify. 
+ A clone which gives the same experience as the real one does
